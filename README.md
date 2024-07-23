@@ -160,7 +160,13 @@ int main(void)
 ---
 ## 串口显示      
 ---
-刚开始运行
+刚开始运行  
+
 ![begin](https://github.com/lqr0323/RSOC-2024-Day2/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-23%20195313.png)  
-线程1结束
-![thread1 over]()
+线程1结束  
+
+![thread1 over](https://github.com/lqr0323/RSOC-2024-Day2/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-23%20195320.png)  
+线程2结束    
+
+![thread2 over]()
+
