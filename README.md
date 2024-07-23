@@ -168,5 +168,7 @@ int main(void)
 ![thread1 over](https://github.com/lqr0323/RSOC-2024-Day2/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-23%20195320.png)  
 线程2结束    
 
-![thread2 over]()
+![thread2 over](https://github.com/lqr0323/RSOC-2024-Day2/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-23%20195355.png)  
+线程3结束  
+![thread3 over]
 
