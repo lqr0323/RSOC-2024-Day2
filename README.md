@@ -169,6 +169,8 @@ int main(void)
 线程2结束    
 
 ![thread2 over](https://github.com/lqr0323/RSOC-2024-Day2/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-23%20195355.png)  
-线程3结束  
-![thread3 over]
+线程3结束    
+
+![thread3 over](https://github.com/lqr0323/RSOC-2024-Day2/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-23%20195450.png)  
+## 今天的多线程就写到这里吧，再次感谢RT-Thread的导师哥哥姐姐们！！！！
 
